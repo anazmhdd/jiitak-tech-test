@@ -1,4 +1,4 @@
-# Jiitak Techical Test - Node.js Web Application
+# Jiitak Technical Test - Node.js Web Application
 
 This is a simple Node.js-based web application built for the Jiitak Technical Test. It includes Docker support, CI/CD via GitHub Actions, deployment to AWS EC2, and optional infrastructure provisioning using Terraform.
 You can access the website at: http://100.27.188.12
