@@ -75,8 +75,11 @@ app.get("/", (req, res) => {
           <li>GitHub for version control</li>
         </ul>
 
-       
-    
+      <p>In this project, I have containerized a Node.js application using Docker, deployed it on AWS EC2, 
+      and used Terraform to automate the cloud infrastructure setup. I managed version control and collaboration 
+      through Git and GitHub, and implemented CI/CD automation using GitHub Actions for seamless deployment. This
+       end-to-end workflow showcases my practical understanding of cloud deployment, infrastructure as code (IaC), 
+       and DevOps best practices. </p>    
       </div>
     </body>
     </html>
